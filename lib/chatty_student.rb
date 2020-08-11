@@ -8,5 +8,5 @@ class ChattyStudent < Student
   def raise_hand
     times do |10| super
   end
-end
+
 end
